@@ -1,6 +1,5 @@
 #include "./../includes/Maze.hpp"
 
-
 //row=nombre de ligne
 //col=nombre de colonne
 int** createArray2D(int row, int col) {

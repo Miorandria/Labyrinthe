@@ -1,10 +1,8 @@
 /*
   Jeu de labyrinthe
   ANDRIAMIADANJATO Mioraniaina 
-  mioraandriamiadanjato@gmail.com
-  +261 34 46 499 99
- 
  */
+
 #include "./includes/Game.hpp"
 #include <ctime>
 #include <stdlib.h>
